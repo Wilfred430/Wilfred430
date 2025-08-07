@@ -26,6 +26,8 @@
 
 ---
 
+<!--  
 ### 📈 Most Used Languages
 
-<img src="./most_used_languages.png" alt="Most Used Languages Chart" width="600"/>
+<img src="./most_used_languages.png" alt="Most Used Languages Chart" width="600"/> 
+-->
