@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm 楊文德, a student from Taichung, Taiwan.</h2>
+<h2 align="left">Hi 👋! I'm Wilfred, a student from Taichung, Taiwan.</h2>
 
 ---
 
