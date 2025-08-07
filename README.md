@@ -24,8 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/systemverilog/systemverilog-original.svg" height="30" /> -->
 </div>
 
----
-
 <!--  
 ### 📈 Most Used Languages
 
