@@ -7,6 +7,9 @@ on:
   # 允許手動觸發 (方便測試)
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
