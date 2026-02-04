@@ -26,25 +26,25 @@ This section updates **every few minutes** to reflect my actual coding and resea
 
 > 📦 890.8 kB Used in GitHub's Storage 
  > 
-> 🏆 40 Contributions in the Year 2026
+> 🏆 39 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 8 Private Repositories 
  > 
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Wednesday                126 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Thursday                 115 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Friday                   118 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Saturday                 71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Sunday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-```
+Monday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Wednesday                124 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Thursday                 115 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Friday                   118 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Saturday                 71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Sunday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+```  
 
 
 📊 **This Week I Spent My Time On** 
@@ -52,10 +52,10 @@ Sunday                   131 commits         ████░░░░░░░�
 ```text
 💬 Programming Languages: 
 No Activity Tracked This Week
-```
+```  
 
 
- Last Updated on 04/02/2026 09:23:37 UTC
+ Last Updated on 04/02/2026 08:58:44 UTC
 <!--END_SECTION:waka-->
 
 ---
@@ -63,10 +63,9 @@ No Activity Tracked This Week
 ### 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-n6h350bbu-wilfred430s-projects.vercel.app/api?username=Wilfred430&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-n6h350bbu-wilfred430s-projects.vercel.app/api/top-langs?username=Wilfred430&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wilfred430&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wilfred430&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages" />
 </div>
-
 
 ---
 
