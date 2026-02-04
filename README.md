@@ -8,14 +8,17 @@
 ### 🔬 Research & Focus
 Currently focusing on **Digital IC Design**, **VLSI Architecture**, and **AI Acceleration**. My goal is to bridge the gap between theoretical algorithms and hardware implementation.
 
-- 🔭 I’m currently working on **SystemVerilog Verification**.
-- 🌱 I’m constantly learning about **Advanced Computer Architecture**.
+- 🔭 I'm currently working on **SystemVerilog Verification**.
+- 🌱 I'm constantly learning about **Advanced Computer Architecture**.
 - 💬 Ask me about **FPGA, Python for ML, or Circuit Design**.
 
 ---
 
 ### 📊 Weekly Research Activity (Real-time Tracking)
 This section updates **every few minutes** to reflect my actual coding and research distribution.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
