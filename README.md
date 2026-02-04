@@ -63,8 +63,8 @@ No Activity Tracked This Week
 ### 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wilfred430&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wilfred430&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Wilfred430&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Wilfred430&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" />
 </div>
 
 
