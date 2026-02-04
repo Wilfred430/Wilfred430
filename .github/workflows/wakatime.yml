@@ -3,7 +3,7 @@ name: WakaTime Readme
 on:
   # 設定排程：每 5 分鐘執行一次
   schedule:
-    - cron: '*/5 * * * *'
+   - cron: '0 * * * *'
   # 允許手動觸發 (方便測試)
   workflow_dispatch:
 
