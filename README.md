@@ -18,13 +18,15 @@ Currently focusing on **Digital IC Design**, **VLSI Architecture**, and **AI Acc
 This section updates **every few minutes** to reflect my actual coding and research distribution.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2045%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.21%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 890.8 kB Used in GitHub's Storage 
  > 
-> 🏆 49 Contributions in the Year 2026
+> 🏆 51 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,8 +34,32 @@ This section updates **every few minutes** to reflect my actual coding and resea
  > 
 > 🔑 8 Private Repositories 
  > 
+📅 **I'm Most Productive on Wednesday** 
 
- Last Updated on 04/02/2026 16:39:11 UTC
+```text
+Monday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Wednesday                132 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Thursday                 115 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Friday                   118 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Saturday                 71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Sunday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 1 hr 11 mins        █████████████████░░░░░░░░   67.61 % 
+SystemVerilog            24 mins             ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Tcl                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+V                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+```
+
+
+ Last Updated on 04/02/2026 17:41:11 UTC
 <!--END_SECTION:waka-->
 
 ---
