@@ -18,7 +18,7 @@ Currently focusing on **Digital IC Design**, **VLSI Architecture**, and **AI Acc
 This section updates **every few minutes** to reflect my actual coding and research distribution.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2016%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.22%20million%20lines%20of%20code-blue?style=flat)
 
@@ -26,7 +26,7 @@ This section updates **every few minutes** to reflect my actual coding and resea
 
 > 📦 890.9 kB Used in GitHub's Storage 
  > 
-> 🏆 70 Contributions in the Year 2026
+> 🏆 69 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,13 +37,13 @@ This section updates **every few minutes** to reflect my actual coding and resea
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Wednesday                132 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Thursday                 124 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Friday                   128 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Saturday                 71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Sunday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Monday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Wednesday                132 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Thursday                 124 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Friday                   132 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Saturday                 71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Sunday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
 ```
 
 
@@ -59,7 +59,7 @@ V                        0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 06/02/2026 10:33:54 UTC
+ Last Updated on 06/02/2026 11:29:23 UTC
 <!--END_SECTION:waka-->
 
 ---
