@@ -8,8 +8,7 @@
 ### 🔬 Research & Focus
 Currently focusing on **Digital IC Design**, **VLSI Architecture**, and **AI Acceleration**. My goal is to bridge the gap between theoretical algorithms and hardware implementation.
 
-- 🔭 I'm currently working on **SystemVerilog Verification**.
-- 🌱 I'm constantly learning about **Advanced Computer Architecture**.
+- 🔭 I'm currently studying on **SystemVerilog Verification**.
 - 💬 Ask me about **FPGA, Python for ML, or Circuit Design**.
 
 ---
@@ -73,6 +72,10 @@ V                        0 secs              ░░░░░░░░░░░�
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wilfred430&theme=tokyonight" height="180" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wilfred430&theme=tokyonight" height="180" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=tokyonight&font=Inter&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 ---
