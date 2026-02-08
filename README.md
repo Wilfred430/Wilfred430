@@ -17,7 +17,7 @@ Currently focusing on **Digital IC Design**, **VLSI Architecture**, and **AI Acc
 This section updates **every few minutes** to reflect my actual coding and research distribution.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2050%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.22%20million%20lines%20of%20code-blue?style=flat)
 
@@ -36,13 +36,13 @@ This section updates **every few minutes** to reflect my actual coding and resea
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Wednesday                132 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Thursday                 124 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Friday                   136 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Saturday                 75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Sunday                   140 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+Monday                   91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Wednesday                132 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Thursday                 124 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Friday                   136 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Saturday                 75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Sunday                   143 commits         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
 ```
 
 
@@ -58,7 +58,7 @@ V                        0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 08/02/2026 15:20:20 UTC
+ Last Updated on 08/02/2026 16:22:56 UTC
 <!--END_SECTION:waka-->
 
 ---
