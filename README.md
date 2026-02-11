@@ -23,9 +23,9 @@ This section updates **every few minutes** to reflect my actual coding and resea
 
 **🐱 My GitHub Data** 
 
-> 📦 893.8 kB Used in GitHub's Storage 
+> 📦 893.9 kB Used in GitHub's Storage 
  > 
-> 🏆 121 Contributions in the Year 2026
+> 🏆 116 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -33,8 +33,32 @@ This section updates **every few minutes** to reflect my actual coding and resea
  > 
 > 🔑 8 Private Repositories 
  > 
+📅 **I'm Most Productive on Wednesday** 
 
- Last Updated on 11/02/2026 17:59:02 UTC
+```text
+Monday                   93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Wednesday                144 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Thursday                 135 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Friday                   136 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Saturday                 75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Sunday                   143 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+SystemVerilog            10 hrs 41 mins      ██████████████████████░░░   88.55 % 
+Markdown                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Python                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+```
+
+
+ Last Updated on 11/02/2026 19:06:24 UTC
 <!--END_SECTION:waka-->
 
 ---
