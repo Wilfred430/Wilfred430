@@ -17,7 +17,7 @@ Currently focusing on **Digital IC Design**, **VLSI Architecture**, and **AI Acc
 This section updates **every few minutes** to reflect my actual coding and research distribution.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%203%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.22%20million%20lines%20of%20code-blue?style=flat)
 
@@ -50,15 +50,15 @@ Sunday                   143 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 27 mins       ███████████████░░░░░░░░░░   58.03 % 
-SystemVerilog            1 hr 16 mins        ████████░░░░░░░░░░░░░░░░░   30.12 % 
-Python                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Markdown                 2 hrs 41 mins       █████████████████░░░░░░░░   68.91 % 
+SystemVerilog            43 mins             █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Python                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 
- Last Updated on 16/02/2026 16:36:21 UTC
+ Last Updated on 16/02/2026 17:34:34 UTC
 <!--END_SECTION:waka-->
 
 ---
