@@ -17,13 +17,13 @@ Currently focusing on **Digital IC Design**, **VLSI Architecture**, and **AI Acc
 This section updates **every few minutes** to reflect my actual coding and research distribution.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2052%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.22%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 896.3 kB Used in GitHub's Storage 
+> 📦 896.2 kB Used in GitHub's Storage 
  > 
 > 🏆 161 Contributions in the Year 2026
  > 
@@ -50,11 +50,13 @@ Sunday                   146 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      14 mins             ███████████████████████░░   90.42 % 
+C                        1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 
 
- Last Updated on 16/03/2026 17:08:09 UTC
+ Last Updated on 16/03/2026 18:53:49 UTC
 <!--END_SECTION:waka-->
 
 ---
