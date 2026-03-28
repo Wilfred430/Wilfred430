@@ -17,9 +17,9 @@ Currently focusing on **Digital IC Design**, **VLSI Architecture**, and **AI Acc
 This section updates **every few minutes** to reflect my actual coding and research distribution.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2043%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.22%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.25%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -31,18 +31,18 @@ This section updates **every few minutes** to reflect my actual coding and resea
  > 
 > 📜 16 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Tuesday                  87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Wednesday                161 commits         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Thursday                 153 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Friday                   139 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Saturday                 85 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Sunday                   148 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Monday                   98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Tuesday                  87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Wednesday                161 commits         █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+Thursday                 153 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Friday                   139 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Saturday                 85 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Sunday                   149 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
 ```
 
 
@@ -58,7 +58,7 @@ Markdown                 10 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 28/03/2026 15:25:18 UTC
+ Last Updated on 28/03/2026 16:26:41 UTC
 <!--END_SECTION:waka-->
 
 ---
