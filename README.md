@@ -17,13 +17,13 @@ Currently focusing on **Digital IC Design**, **VLSI Architecture**, and **AI Acc
 This section updates **every few minutes** to reflect my actual coding and research distribution.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2055%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.26%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 930.2 kB Used in GitHub's Storage 
+> 📦 935.7 kB Used in GitHub's Storage 
  > 
 > 🏆 243 Contributions in the Year 2026
  > 
@@ -36,13 +36,13 @@ This section updates **every few minutes** to reflect my actual coding and resea
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-Tuesday                  115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Wednesday                164 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Thursday                 159 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Friday                   144 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Saturday                 89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Sunday                   157 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Monday                   98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Wednesday                164 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Thursday                 159 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Friday                   144 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Saturday                 89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Sunday                   157 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
 ```
 
 
@@ -55,7 +55,7 @@ Python                   7 mins              ██░░░░░░░░░�
 ```
 
 
- Last Updated on 04/05/2026 19:19:37 UTC
+ Last Updated on 04/05/2026 21:01:55 UTC
 <!--END_SECTION:waka-->
 
 ---
