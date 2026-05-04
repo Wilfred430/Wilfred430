@@ -17,7 +17,7 @@ Currently focusing on **Digital IC Design**, **VLSI Architecture**, and **AI Acc
 This section updates **every few minutes** to reflect my actual coding and research distribution.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.26%20million%20lines%20of%20code-blue?style=flat)
 
@@ -25,7 +25,7 @@ This section updates **every few minutes** to reflect my actual coding and resea
 
 > 📦 930.2 kB Used in GitHub's Storage 
  > 
-> 🏆 234 Contributions in the Year 2026
+> 🏆 243 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,13 +36,13 @@ This section updates **every few minutes** to reflect my actual coding and resea
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Tuesday                  106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Wednesday                164 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Thursday                 159 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Friday                   144 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Saturday                 89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Sunday                   157 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Monday                   98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Tuesday                  115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Wednesday                164 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Thursday                 159 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Friday                   144 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Saturday                 89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Sunday                   157 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
 ```
 
 
@@ -50,13 +50,12 @@ Sunday                   157 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 47 mins        ████████████████░░░░░░░░░   64.67 % 
-Python                   31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Other                    26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Markdown                 1 hr 47 mins        ███████████████████████░░   93.85 % 
+Python                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 ```
 
 
- Last Updated on 04/05/2026 17:26:10 UTC
+ Last Updated on 04/05/2026 19:19:37 UTC
 <!--END_SECTION:waka-->
 
 ---
