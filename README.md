@@ -17,15 +17,15 @@ Currently focusing on **Digital IC Design**, **VLSI Architecture**, and **AI Acc
 This section updates **every few minutes** to reflect my actual coding and research distribution.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2030%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.26%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 935.7 kB Used in GitHub's Storage 
+> 📦 938.3 kB Used in GitHub's Storage 
  > 
-> 🏆 250 Contributions in the Year 2026
+> 🏆 258 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,13 +36,13 @@ This section updates **every few minutes** to reflect my actual coding and resea
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Tuesday                  122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Wednesday                164 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Thursday                 159 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Friday                   144 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Saturday                 89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Sunday                   157 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Monday                   98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Tuesday                  130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Wednesday                164 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Thursday                 159 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Friday                   144 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Saturday                 89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Sunday                   157 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
 ```
 
 
@@ -55,7 +55,7 @@ Python                   7 mins              ██░░░░░░░░░�
 ```
 
 
- Last Updated on 05/05/2026 11:56:43 UTC
+ Last Updated on 05/05/2026 15:50:01 UTC
 <!--END_SECTION:waka-->
 
 ---
