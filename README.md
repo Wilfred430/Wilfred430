@@ -17,15 +17,15 @@ Currently focusing on **Digital IC Design**, **VLSI Architecture**, and **AI Acc
 This section updates **every few minutes** to reflect my actual coding and research distribution.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2028%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.30%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 948.9 kB Used in GitHub's Storage 
+> 📦 949.7 kB Used in GitHub's Storage 
  > 
-> 🏆 283 Contributions in the Year 2026
+> 🏆 287 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,13 +36,13 @@ This section updates **every few minutes** to reflect my actual coding and resea
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Tuesday                  134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-Wednesday                166 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Thursday                 161 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-Friday                   144 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Saturday                 89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-Sunday                   165 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Monday                   108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Tuesday                  138 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Wednesday                166 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Thursday                 161 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Friday                   144 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Saturday                 89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Sunday                   165 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
 ```
 
 
@@ -57,7 +57,7 @@ Assembly                 0 secs              █░░░░░░░░░░�
 ```
 
 
- Last Updated on 19/05/2026 07:43:14 UTC
+ Last Updated on 19/05/2026 10:57:12 UTC
 <!--END_SECTION:waka-->
 
 ---
