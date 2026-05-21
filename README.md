@@ -33,8 +33,32 @@ This section updates **every few minutes** to reflect my actual coding and resea
  > 
 > 🔑 11 Private Repositories 
  > 
+📅 **I'm Most Productive on Wednesday** 
 
- Last Updated on 21/05/2026 18:56:35 UTC
+```text
+Monday                   108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Tuesday                  141 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Wednesday                166 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Thursday                 162 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Friday                   144 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Saturday                 89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Sunday                   165 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 1 hr 9 mins         ███████████████░░░░░░░░░░   59.90 % 
+C++                      20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Other                    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Git Config               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+ Last Updated on 21/05/2026 20:49:24 UTC
 <!--END_SECTION:waka-->
 
 ---
