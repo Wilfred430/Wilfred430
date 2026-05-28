@@ -17,8 +17,6 @@ Currently focusing on **Digital IC Design**, **VLSI Architecture**, and **AI Acc
 This section updates **every few minutes** to reflect my actual coding and research distribution.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2027%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.33%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -33,32 +31,8 @@ This section updates **every few minutes** to reflect my actual coding and resea
  > 
 > 🔑 12 Private Repositories 
  > 
-📅 **I'm Most Productive on Wednesday** 
 
-```text
-Monday                   120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Tuesday                  152 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Wednesday                167 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-Thursday                 162 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Friday                   144 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Saturday                 94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Sunday                   166 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 1 hr 7 mins         ████████████████░░░░░░░░░   62.21 % 
-C++                      15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Other                    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Git Config               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
- Last Updated on 28/05/2026 14:32:36 UTC
+ Last Updated on 28/05/2026 17:59:35 UTC
 <!--END_SECTION:waka-->
 
 ---
