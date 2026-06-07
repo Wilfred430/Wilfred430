@@ -17,8 +17,6 @@ Currently focusing on **Digital IC Design**, **VLSI Architecture**, and **AI Acc
 This section updates **every few minutes** to reflect my actual coding and research distribution.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2030%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.96%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -54,7 +52,7 @@ C                        1 min               ███████████�
 ```
 
 
- Last Updated on 07/06/2026 15:19:48 UTC
+ Last Updated on 07/06/2026 17:08:01 UTC
 <!--END_SECTION:waka-->
 
 ---
