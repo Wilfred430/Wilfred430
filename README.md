@@ -17,7 +17,7 @@ Currently focusing on **Digital IC Design**, **VLSI Architecture**, and **AI Acc
 This section updates **every few minutes** to reflect my actual coding and research distribution.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2034%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.97%20million%20lines%20of%20code-blue?style=flat)
 
@@ -36,13 +36,13 @@ This section updates **every few minutes** to reflect my actual coding and resea
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Tuesday                  155 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Wednesday                176 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Thursday                 180 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Friday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Saturday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Sunday                   170 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Monday                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Tuesday                  155 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Wednesday                176 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Thursday                 180 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Friday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Saturday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Sunday                   169 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
 ```
 
 
@@ -50,11 +50,12 @@ Sunday                   170 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        2 mins              ███████████████████░░░░░░   75.52 % 
+Markdown                 0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
 ```
 
 
- Last Updated on 16/06/2026 17:58:58 UTC
+ Last Updated on 16/06/2026 20:51:50 UTC
 <!--END_SECTION:waka-->
 
 ---
