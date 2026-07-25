@@ -50,15 +50,15 @@ Sunday                   174 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 19 mins       ██████████████░░░░░░░░░░░   55.23 % 
-Python                   4 hrs 1 min         ██████████░░░░░░░░░░░░░░░   41.73 % 
-Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Markdown                 2 hrs 43 mins       ██████████████░░░░░░░░░░░   54.14 % 
+Python                   2 hrs               ██████████░░░░░░░░░░░░░░░   40.03 % 
+Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 
 
- Last Updated on 25/07/2026 16:18:44 UTC
+ Last Updated on 25/07/2026 17:21:41 UTC
 <!--END_SECTION:waka-->
 
 ---
