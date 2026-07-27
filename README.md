@@ -17,7 +17,9 @@ Currently focusing on **Digital IC Design**, **VLSI Architecture**, and **AI Acc
 This section updates **every few minutes** to reflect my actual coding and research distribution.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%201%20min-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%206%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.03%20million%20lines%20of%20code-blue?style=flat)
 
@@ -57,8 +59,31 @@ Other                    3 mins              ░░░░░░░░░░░�
 Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 15:00:30 UTC
+```text
+⏱ AI Coding Time: 4 hrs 16 mins (100.0%)
+
+✍️ 1,548 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 115,732,039 Input Tokens, 255,177 Output Tokens
+
+💵 $351.02 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 46 AI Prompts
+
+Sonnet                   1,505 lines         ████████████████████████░   97.22 % 
+Gemini                   43 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,072 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 27/07/2026 15:56:21 UTC
 <!--END_SECTION:waka-->
 
 ---
