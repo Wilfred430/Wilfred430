@@ -17,9 +17,9 @@ Currently focusing on **Digital IC Design**, **VLSI Architecture**, and **AI Acc
 This section updates **every few minutes** to reflect my actual coding and research distribution.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%2017%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.03%20million%20lines%20of%20code-blue?style=flat)
 
@@ -35,53 +35,8 @@ This section updates **every few minutes** to reflect my actual coding and resea
  > 
 > 🔑 11 Private Repositories 
  > 
-📅 **I'm Most Productive on Wednesday** 
 
-```text
-Monday                   124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Tuesday                  186 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Wednesday                215 commits         █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Thursday                 206 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Friday                   157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Saturday                 115 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Sunday                   174 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 1 hr 33 mins        ████████████████████░░░░░   78.18 % 
-Python                   15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-HTML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 59 mins (100.0%)
-
-✍️ 842 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 31,892,017 Input Tokens, 93,329 Output Tokens
-
-💵 $97.08 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 27 AI Prompts
-
-Sonnet                   842 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 830 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
-
- Last Updated on 30/07/2026 16:31:29 UTC
+ Last Updated on 30/07/2026 17:31:26 UTC
 <!--END_SECTION:waka-->
 
 ---
