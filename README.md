@@ -35,57 +35,8 @@ This section updates **every few minutes** to reflect my actual coding and resea
  > 
 > 🔑 11 Private Repositories 
  > 
-📅 **I'm Most Productive on Wednesday** 
 
-```text
-Monday                   140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Tuesday                  197 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Wednesday                215 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Thursday                 214 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Friday                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Saturday                 117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Sunday                   181 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 4 hrs 34 mins       ███████████████████░░░░░░   77.22 % 
-Python                   1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 5 hrs 22 mins (90.69%)
-
-✍️ 3,950 lines written by AI, 1 lines written by hand (99.97% AI-written)
-
-🔤 104,059,818 Input Tokens, 243,690 Output Tokens
-
-💵 $412.35 Estimated AI Cost This Week
-
-🧠 9 AI Sessions, 60 AI Prompts
-
-Sonnet                   1,926 lines         ████████████░░░░░░░░░░░░░   48.03 % 
-Github-Copilot           1,613 lines         ██████████░░░░░░░░░░░░░░░   40.22 % 
-Haiku                    430 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Opus                     41 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📚 Verbose Prompter — average 2,738 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
-```
-
-
- Last Updated on 07/08/2026 16:17:36 UTC
+ Last Updated on 07/08/2026 17:17:23 UTC
 <!--END_SECTION:waka-->
 
 ---
