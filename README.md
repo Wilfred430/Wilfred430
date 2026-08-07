@@ -17,17 +17,13 @@ Currently focusing on **Digital IC Design**, **VLSI Architecture**, and **AI Acc
 This section updates **every few minutes** to reflect my actual coding and research distribution.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2049%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-65%20hrs%2056%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.09%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 529 Contributions in the Year 2026
+> 🏆 528 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,7 +81,7 @@ Opus                     41 lines            ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 06/08/2026 21:57:52 UTC
+ Last Updated on 07/08/2026 00:01:25 UTC
 <!--END_SECTION:waka-->
 
 ---
