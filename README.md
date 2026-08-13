@@ -52,39 +52,39 @@ Sunday                   181 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 36 mins       ███████████████░░░░░░░░░░   59.64 % 
-Python                   2 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   31.63 % 
-Other                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Markdown                 4 hrs 48 mins       ██████████████░░░░░░░░░░░   56.12 % 
+Python                   2 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   34.61 % 
+Other                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 2 mins (96.11%)
+⏱ AI Coding Time: 8 hrs 12 mins (95.77%)
 
-✍️ 2,647 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,434 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 61,627,706 Input Tokens, 480,056 Output Tokens
+🔤 24,718,553 Input Tokens, 427,646 Output Tokens
 
-💵 $210.21 Estimated AI Cost This Week
+💵 $144.02 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 104 AI Prompts
+🧠 9 AI Sessions, 85 AI Prompts
 
-Sonnet                   2,438 lines         ███████████████████████░░   90.70 % 
-Opus                     250 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Sonnet                   2,224 lines         ██████████████████████░░░   89.89 % 
+Opus                     250 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,496 characters per prompt
+📚 Verbose Prompter — average 2,941 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/08/2026 16:18:20 UTC
+ Last Updated on 13/08/2026 17:20:35 UTC
 <!--END_SECTION:waka-->
 
 ---
