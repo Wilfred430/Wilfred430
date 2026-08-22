@@ -52,40 +52,37 @@ Sunday                   182 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 38 mins       ██████████████████░░░░░░░   73.45 % 
-HTML                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Markdown                 55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Python                   1 hr 56 mins        █████████████████████░░░░   84.07 % 
+Other                    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 2 mins (99.94%)
+⏱ AI Coding Time: 2 hrs 18 mins (99.76%)
 
-✍️ 3,731 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 528 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,092,374 Input Tokens, 547,549 Output Tokens
+🔤 1,395,799 Input Tokens, 75,110 Output Tokens
 
-💵 $182.56 Estimated AI Cost This Week
+💵 $35.91 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 68 AI Prompts
+🧠 4 AI Sessions, 28 AI Prompts
 
-Opus                     3,756 lines         █████████████████████████   98.92 % 
-Gemini                   41 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Opus                     653 lines           ████████████████████████░   94.09 % 
+Gemini                   41 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,490 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
+📚 Verbose Prompter — average 1,680 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/08/2026 16:04:14 UTC
+ Last Updated on 22/08/2026 17:05:19 UTC
 <!--END_SECTION:waka-->
 
 ---
