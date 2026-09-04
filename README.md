@@ -52,39 +52,31 @@ Sunday                   196 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 8 mins        █████████████████░░░░░░░░   69.68 % 
-Other                    1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-Markdown                 43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Other                    48 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 48 mins (100.0%)
+⏱ AI Coding Time: 48 mins (100.0%)
 
-✍️ 984 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 4,286,361 Input Tokens, 267,835 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $68.40 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 76 AI Prompts
-
-Sonnet                   984 lines           █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🧠 2 AI Sessions, 13 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,158 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📄 Detailed Prompter — average 671 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/09/2026 16:07:16 UTC
+ Last Updated on 04/09/2026 17:06:29 UTC
 <!--END_SECTION:waka-->
 
 ---
